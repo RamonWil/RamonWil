@@ -1,16 +1,23 @@
-## Hi there 👋
+## 
+Hi, I'm Ramon 👋
 
-<!--
-**RamonWil/RamonWil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at the University of Kentucky with experience in software development, data engineering, cybersecurity, and enterprise technology.
 
-Here are some ideas to get you started:
+💻 What I Work With
+Languages: Python, Java, C++, JavaScript, SQL
+Software: Full-Stack Development, Data Structures & Algorithms
+Data: ETL, Data Pipelines, Oracle, ODI
+Computer Engineering: Embedded Systems, Digital Logic, Hardware/Software Integration
+Tools: Git, GitHub, Docker, Microsoft Azure
+🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my pinned repositories below for projects involving:
+
+AI & Software Development
+Cybersecurity
+Data Engineering
+Full-Stack Development
+Computer Engineering
+📫 Connect With Me
+
+Website • LinkedIn
