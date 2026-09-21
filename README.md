@@ -1,6 +1,6 @@
-# Hi, I'm [Ramon](https://ramonwilliams.com) 👋!
+# Hi, I'm [Ramon](https://ramonwilliams.com) 👋.
 
-I'm a Computer Engineering student at the **University of Kentucky** who enjoys building software and exploring the intersection of **AI, data, cybersecurity, and computer engineering**.
+A very passionate Computer Engineering student at the **University of Kentucky** who enjoys building software and exploring the intersection of **AI, data, cybersecurity, and computer engineering**.
 
 If I come across an interesting problem or technology, chances are I'll try to build something with it.
 
