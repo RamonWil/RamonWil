@@ -25,4 +25,4 @@ Outside of coding, I enjoy going to the gym, watching anime, gaming, and working
 
 I like challenging myself with projects that force me to figure things out as I go, whether that's learning a new technology, improving something I've already built, or starting from scratch.
 
-You can find more of my work at [ramonwilliams.com](https://ramonwilliams.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/itsramon-williams).
+You can find more of my work at [ramonwilliams.com](https://ramonwilliams.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/itsramon-williams)!
