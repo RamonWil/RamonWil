@@ -12,10 +12,10 @@ Most of what you'll find here are projects I've built to experiment with new tec
 
 Some of the projects you'll find on my GitHub include:
 
-* **[Host-Based Intrusion Detection System](https://github.com/RamonWil/HIDS)** — Python-based file integrity monitoring using SHA-256 hashing and baseline change detection
-* **[AI Study Assistant](https://github.com/RamonWil/Ai-Study-Assistant)**  — AI-powered tools for improving the studying and learning experience
-* **SerSuite** (Adding it soon) — Web development and business-focused software projects
-* More software, cybersecurity, data, and computer engineering projects coming soon
+- **[Host-Based Intrusion Detection System](https://github.com/RamonWil/HIDS)** — Python-based file integrity monitoring using SHA-256 hashing and baseline change detection
+- **[AI Study Assistant](https://github.com/RamonWil/Ai-Study-Assistant)** — AI-powered learning platform with adaptive tutoring, quizzes, challenge modes, and document-to-flashcard generation
+- **[SerSuite](https://sersuite.com)** — Web development business I founded to design, build, and launch responsive websites for small businesses
+- More software, cybersecurity, data, and computer engineering projects coming soon
 
 Check out my pinned repositories below to see what I'm currently building.
 
